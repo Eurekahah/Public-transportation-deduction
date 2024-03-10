@@ -7,7 +7,7 @@ import pandas as pd
 
 
 source_path = 'source_data.csv'
-destination_path = 'version7_merged_data.csv'
+destination_path = 'people_get_on_and_off.csv'
 encoding_methods = 'GB2312'
 
 # 1. 读取源表数据
